@@ -20,7 +20,7 @@ El conjunto de datos utilizado es 'winequality-red.csv'. Este conjunto de datos 
 
 ## Resultados
 
-El modelo `RandomForestClassifier` logra una precisión de (insertar valor de `accuracy` aquí).
+El modelo `RandomForestClassifier` logra una precisión de 0.6666666666666666.
 
 ## Requisitos
 
